@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: Lucida Handwriting; 
+    font-size: 50px;
+}
+
+.picture{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 300px;
+}
